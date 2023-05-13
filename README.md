@@ -11,5 +11,11 @@ Various forecasting models, such as time series or machine learning algorithms, 
 3# .Data![image](https://github.com/karim-saleeh/Project_1/assets/125829412/e72ed2f2-b5e3-4ab2-89dd-8b7e36bd7f01)
 The availability of these diverse measurements, including temperature, humidity, precipitation, wind speed, and solar irradiance, provides valuable information for various analyses and applications. Researchers, climate scientists, and other stakeholders can utilize this dataset to study weather patterns, assess environmental impacts, develop predictive models, and evaluate the relationship between different factors.
 It's important to note that this dataset represents a specific time period and should be used accordingly in analyses and forecasting models, considering the limitations and characteristics of the collected data during that timeframe.
+4#. 4. proposed method ![image](https://github.com/karim-saleeh/Project_1/assets/125829412/1defcec7-8d05-4394-8764-6581c6e03dc7)
+We have three different algorithms with following R^2 results: 
+  1. Using Normal Regression Ensemble model, with Ensemble R^2 Score: 91.4 %.
+  2.Using Gradient Boosting Regressor, with R-squared: 98.0 % 
+ 3. Using Random Forest Regressor Model, which give more efficient results, with Ensemble R^2 Score: 99 %
+![image](https://github.com/karim-saleeh/Project_1/assets/125829412/21d89b9b-468d-4d9b-a7eb-1b67193c0915)
 
 
