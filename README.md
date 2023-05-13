@@ -8,7 +8,7 @@ The company aims to develop a forecasting model to predict the electricity deman
 Various forecasting models, such as time series or machine learning algorithms, will be explored and trained using historical data. The trained model will then be used to forecast electricity demand for new properties based on their characteristics and expected completion dates. Continuous evaluation, adaptation, and improvement of the model will ensure its effectiveness in supporting decision-making for infrastructure development and resource allocation.
 
 ![image](https://github.com/karim-saleeh/Project_1/assets/125829412/e327b6b2-ebbc-4647-9777-b72a852a93a2)
-3#Data![image](https://github.com/karim-saleeh/Project_1/assets/125829412/e72ed2f2-b5e3-4ab2-89dd-8b7e36bd7f01)
+3# .Data![image](https://github.com/karim-saleeh/Project_1/assets/125829412/e72ed2f2-b5e3-4ab2-89dd-8b7e36bd7f01)
 The availability of these diverse measurements, including temperature, humidity, precipitation, wind speed, and solar irradiance, provides valuable information for various analyses and applications. Researchers, climate scientists, and other stakeholders can utilize this dataset to study weather patterns, assess environmental impacts, develop predictive models, and evaluate the relationship between different factors.
 It's important to note that this dataset represents a specific time period and should be used accordingly in analyses and forecasting models, considering the limitations and characteristics of the collected data during that timeframe.
 ![image](https://github.com/karim-saleeh/Project_1/assets/125829412/487220c6-3120-4d71-aca4-08b89e0cbeb5)
