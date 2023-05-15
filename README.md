@@ -1,6 +1,6 @@
 # Project_1
 Will create my own new project to find average salary for data_scince in Egypt
-2#.problem formulation![image](https://github.com/karim-saleeh/Project_1/assets/125829412/6a3c305d-5c22-4841-a1ea-c9e80458276c)
+2#.Introduction![image](https://github.com/karim-saleeh/Project_1/assets/125829412/6a3c305d-5c22-4841-a1ea-c9e80458276c)
 Welcome to our housing company, a leading developer building new properties across the city. We are dedicated to creating exceptional homes that meet the diverse needs and aspirations of individuals and families. With our commitment to quality craftsmanship, innovative design, and attention to detail, we strive to exceed expectations and deliver homes that inspire and enrich lives. Join us on this exciting journey as we shape communities and provide desirable living spaces for a brighter future.
 ![image](https://github.com/karim-saleeh/Project_1/assets/125829412/91f0e808-c5b2-4719-be15-9cbd4fe3d37b)
 The company aims to develop a forecasting model to predict the electricity demand of new properties being constructed throughout the city. This model will enable accurate estimation of future electricity consumption, aiding in resource planning and infrastructure development. The process involves collecting historical data on electricity usage from existing properties and gathering information on upcoming construction projects. Relevant features such as property size, ID, Temperature, humidity, precipitation, wind speed and solar irradiance will be analysed to identify trends and correlations. 
